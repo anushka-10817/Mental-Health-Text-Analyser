@@ -30,3 +30,4 @@ This project demonstrates the application of Natural Language Processing (NLP) a
 * Check how accurate the predictions are
 * The program ends here to enter another name run it again
 ## Screenshots of Output 
+<img width="610" height="409" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/72854eae-7dfe-4e0d-bf29-e30b80e3eed7" />
