@@ -45,3 +45,15 @@ This project demonstrates the application of Natural Language Processing (NLP) a
 
 
 <img width="630" height="184" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/3429f759-cb16-43d7-84ae-2b64b7824ec4" />
+
+ ## Limitations 
+* Uses a small dataset, so accuracy may be limited
+* Cannot handle mixed emotions effectively
+* May misclassify complex sentences
+* Limited understanding of context or slang
+* Always assigns an emotion, even for neutral text
+## Future Enhancements
+* Implement advanced models for better accuracy
+* Add more emotion categories like anxiety, excitement, etc.
+* Build a web app
+* Add features like mood tracking and emotion-based suggestions
