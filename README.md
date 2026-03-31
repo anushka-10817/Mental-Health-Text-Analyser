@@ -21,7 +21,8 @@ This project demonstrates the application of Natural Language Processing (NLP) a
 * Setup VS CODE
 * Create file name MentalHealthTextAnalyser.py
 * Write code and save it
-* Execute the code
+* Execute th<img width="612" height="150" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/f8029889-2ef6-4497-a8e7-542a29a847ef" />
+e code
 ## Instructions for testing
 * Make sure the project is set up properly
 * Run the application
