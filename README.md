@@ -38,3 +38,10 @@ This project demonstrates the application of Natural Language Processing (NLP) a
 <img width="571" height="178" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/54172d82-9423-42dc-948c-08c2c9b559db" />
 
 
+<img width="538" height="165" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/bbf99800-5b42-4844-9bb0-9a14f73f5bb4" />
+
+
+<img width="589" height="146" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/8155f992-6d48-4001-b161-db2f31b0934b" />
+
+
+<img width="630" height="184" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/3429f759-cb16-43d7-84ae-2b64b7824ec4" />
